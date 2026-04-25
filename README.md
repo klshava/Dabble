@@ -10,13 +10,10 @@ This project simulates the kind of analytics a BI analyst at Dabble would produc
 ## Report Pages
 
 ### Page 1 — Commercial Overview
+![Alt text](./images/Screenshot%202026-04-26%20074231.png)
 
 ### Page 2 — Customer & Time Intelligence
-
-## Data Model (Star Schema)
-
-
-### Tables
+![Alt text](./images/Screenshot%202026-04-26%20074243.png)
 
 ## Tools & Technologies
 
